@@ -432,5 +432,5 @@ jekyll_compose:
 # jekyll-feed settings
 feed:
   categories:
-    - AI
+    - ai
     #- review

@@ -1,7 +1,7 @@
 ---
 layout: list
 type: category
-title: Artificial Intelligence
+title: AI
 slug: ai
 sidebar: true
 order: 2
