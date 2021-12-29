@@ -168,7 +168,7 @@ analytics:
   provider               : "google-gtag" 
                           # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-ZEZBWC9PJT"
+    tracking_id          : "G-YGNCZW85DS"
     anonymize_ip         : # true, false (default)
 
 
