@@ -163,6 +163,14 @@ defaults:
     values:
       seo:
         type:          WebPage
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-ZEZBWC9PJT"
+    anonymize_ip         : # true, false (default)
+
 
 kramdown:
   math_engine:         mathjax
