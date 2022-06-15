@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[논문 리뷰] LVCNet"
+title: "[논문 리뷰] LVCNetcopo"
 subtitle: "Paper Review"
 category: ai
 tags: ttsss
